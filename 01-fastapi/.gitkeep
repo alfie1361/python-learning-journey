@@ -1,2 +1,0 @@
-feat: اضافه کردن اولین FastAPI app
-ساخت ۳ endpoint: /، /about، /hello/{name}
