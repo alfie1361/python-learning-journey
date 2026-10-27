@@ -1,2 +1,3 @@
-# python-learning-journey
-مسیر یادگیری پایتون از بک‌اند تا Data Science
+
+🐍 Python Learning Journey
+مسیر یادگیری پایتون از توسعه بک‌اند تا Data Science
