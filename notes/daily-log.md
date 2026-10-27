@@ -5,4 +5,3 @@
 💻 فایل 01-fastapi/main.py رو ساختم و تست کردم
 🤔 هنوز مباحث Pydantic و POST/PUT/DELETE رو بلد نیستم
 🎯 فردا: ساخت Todo API با CRUD کامل
-ذخیره کن (Ctrl + S).
